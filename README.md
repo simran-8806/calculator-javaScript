@@ -10,6 +10,7 @@ It was developed as part of my **JavaScript learning journey** to practice **DOM
 ## 🚀 Live Demo
 
 🔗 **View the Live Project:**
+[Click here to view the Live Demo]()
 
 ---
 
