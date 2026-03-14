@@ -11,16 +11,11 @@ It was developed as part of my **JavaScript learning journey** to practice **DOM
 
 🔗 **View the Live Project:**
 
-
 ---
 
 ## 📸 Project Preview
 
-
-
-
-![Calculator Screenshot](screenshot.png)
-
+![Calculator Screenshot](calc-ss)
 
 ---
 
@@ -47,7 +42,7 @@ It was developed as part of my **JavaScript learning journey** to practice **DOM
 ## 📂 Project Structure
 
 ```
-calculator-app
+calculator-javaScript
 │
 ├── index.html
 ├── style.css
